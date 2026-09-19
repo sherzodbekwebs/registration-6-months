@@ -1,0 +1,6 @@
+{
+  "name": "N3 Tijoriy Yuk Mashinalari Analitikasi",
+  "description": "N3 toifadagi yuk mashinalari bozorining oylar, brendlar va texnikalar kesimidagi interaktiv diagramma va jadvallari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
