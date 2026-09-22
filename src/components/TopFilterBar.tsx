@@ -50,7 +50,7 @@ export const TopFilterBar: React.FC<TopFilterBarProps> = ({
             </div>
             <div>
               <h1 className="text-lg sm:text-xl font-bold text-slate-900 tracking-tight leading-none">
-                N3 Тижорат юк машиналари таҳлили
+                N3 Юк машиналари таҳлили
               </h1>
               <p className="text-xs text-slate-500 mt-1 font-normal">
                 Фильтрлар орқали ойлар, брендлар ва техникалар кесимидаги диаграмма ва жадваллар

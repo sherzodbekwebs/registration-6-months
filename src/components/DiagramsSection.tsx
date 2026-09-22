@@ -77,7 +77,7 @@ export const DiagramsSection: React.FC<DiagramsSectionProps> = ({
             <div className="flex items-center gap-2">
               <Calendar className="h-5 w-5 text-blue-600" />
               <h2 className="text-base font-bold text-slate-900">
-                1. Ойлик савдо динамикаси (Январь &ndash; Июнь)
+                1. Ойлик реализация динамикаси (Январь &ndash; Июнь)
               </h2>
             </div>
 

@@ -79,7 +79,7 @@ export default function App() {
     link.setAttribute('href', encodedUri);
     link.setAttribute(
       'download',
-      `n3_tijorat_texnikalari_hisoboti_${new Date().toISOString().slice(0, 10)}.csv`
+      `n3_yuk_mashinalari_hisoboti_${new Date().toISOString().slice(0, 10)}.csv`
     );
     document.body.appendChild(link);
     link.click();
@@ -145,7 +145,7 @@ export default function App() {
         <div className="w-full px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="flex items-center gap-2">
             <span className="font-bold text-slate-800">
-              N3 Тижорат юк машиналари бозори (12+ тонна)
+              N3 Юк машиналари бозори (12+ тонна)
             </span>
             <span>&bull;</span>
             <span>6 ойлик ҳисобот (Январь &ndash; Июнь)</span>
